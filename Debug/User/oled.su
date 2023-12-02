@@ -1,0 +1,12 @@
+../User/oled.c:206:6:Column_set	40	static
+../User/oled.c:214:6:Page_set	40	static
+../User/oled.c:221:6:OLED_clear	160	static
+../User/oled.c:237:6:OLED_full	160	static
+../User/oled.c:253:6:OLED_init	24	static
+../User/oled.c:258:6:Picture_display	168	static
+../User/oled.c:275:6:TXT_display	48	static
+../User/oled.c:291:6:Picture_ReverseDisplay	24	static
+../User/oled.c:307:6:Display_mnu	16	static
+../User/oled.c:361:6:Display_int	8	static
+../User/oled.c:377:6:Display_scan	24	static
+../User/oled.c:461:6:Display_SET_scan	24	static

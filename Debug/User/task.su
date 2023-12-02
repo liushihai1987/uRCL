@@ -1,0 +1,4 @@
+../User/task.c:8:6:TaskKeySan	4	static
+../User/task.c:9:6:TaskSendData	4	static
+../User/task.c:33:6:TaskRemarks	16	static
+../User/task.c:57:6:TaskProcess	16	static
